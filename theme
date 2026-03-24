@@ -1,0 +1,43 @@
+:root {
+    --elevation01: rgb(226 228 233 / 1); /* global input text color */
+    --elevation02: #16181D;/* global background color||option color*/
+    --elevation03: rgb(121, 121, 248);/*selection color */
+    --elevation04: #4F535B; /* border top or bottom color*/
+    --elevation05: #c6ffc6;/* background color of in-stock*/
+    --elevation06: green;/* color of in-stock*/
+    --elevation07: #ffdcdc;/* background color of ot-of-stock*/
+    --elevation08: red;/*color of out-of-stock */ 
+    --elevation09: rgb(192 196 206/1);/* inside the card paragraph color*/
+    --elevation10: #E58C33; /* background color of cardbutton*/
+    --elevation11: #858585; /* disable background color cardbutton*/
+    --elevation12: #a1a1a1; /* disable color cardbutton*/
+    --elevation13: #7f4848; /*  color of remove-cart-button*/
+    --elevation14: #fff293; /*  color of book price */
+    --elevation15: rgb(41 44 52 / 1); /*  card background color */
+    --elevation16: #a92047; /*  edit button background color */
+    --elevation17: #ffff; /*  edit button color */
+    --elevation18: rgb(197, 197, 197);/*selection background color*/
+    --shadow01: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22)
+}
+
+:root {
+    --elevation01: rgb(0, 0, 0); /* global input text color */
+    --elevation02: #ffff;/* global background color||option color*/
+    --elevation03: rgb(121, 121, 248);/*selection color */
+    --elevation04: #4F535B; /* border top or bottom color*/
+    --elevation05: #c6ffc6;/* background color of in-stock*/
+    --elevation06: green;/* color of in-stock*/
+    --elevation07: #ffdcdc;/* background color of ot-of-stock*/
+    --elevation08: red;/*color of out-of-stock */ 
+    --elevation09: rgb(0, 0, 0);/* inside the card paragraph color*/
+    --elevation10: #ff8000; /* background color of cardbutton*/
+    --elevation11: #5e5353; /* disable background color cardbutton*/
+    --elevation12: #a1a1a1; /* disable color cardbutton*/
+    --elevation13: #d13a3a; /*  color of remove-cart-button*/
+    --elevation14: rgb(0, 0, 0); /*  color of book price */
+    --elevation15: #ffff; /*  card background color */
+    --elevation16: #a92047; /*  edit button background color */
+    --elevation17: #ffff; /*  edit button color */
+    --elevation18: rgb(197, 197, 197);/*selection background color*/
+    --shadow01: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22)
+}
